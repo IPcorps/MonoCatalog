@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run DE",
+			"type": "npm",
+			"script": "rde",
+			"problemMatcher": [],
+			"presentation": {
+				"group": "dev"
+			}
+		}
+	]
+}
